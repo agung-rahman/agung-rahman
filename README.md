@@ -48,7 +48,7 @@ Same concept, adapted for Arena's free API. Posts and replies run fully automate
 ---
 
 ## GitHub Stats
-<!-- stats widget here -->
+![Agung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agung-rahman&show_icons=true&theme=dark)
 
 ---
 
